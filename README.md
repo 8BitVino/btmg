@@ -12,3 +12,5 @@
 
 
 ![btmg](https://github.com/8BitVino/btmg/blob/main/btmg.png)
+
+v1.0 Release version 14/1/2024
