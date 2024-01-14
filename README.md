@@ -1,8 +1,8 @@
 # (B)itmap (T)ile (M)ap (G)enerator
 
- Make a simple 14 x 14 bitmap game field for Agonlight/Console8
+ Make a simple 14 x 14 bitmap tiled (16x16 pixel) game field for Agonlight/Console8
 
- Based on Agon sprite demo https://github.com/The-8bit-Noob
+ Based on Agon sprite demos https://github.com/The-8bit-Noob
  
  Bitmaps generated with https://github.com/robogeek42/agon_sped 
 
