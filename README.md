@@ -1,4 +1,4 @@
-# (B)itmap (T)ile (M)ap (G)enerator - BTMG
+# (B)itmap (T)ile (M)ap (G)enerator
 
  Make a simple 14 x 14 bitmap game field for Agonlight/Console8
 
