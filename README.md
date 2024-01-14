@@ -9,3 +9,6 @@
  Notes
  1. Ensure that all RGB files are saved in same directory in directory.
  2. Use robogeek42 sped.bas to create the RGB and save in format (1) RGB8
+
+
+![btmg](https://github.com/8BitVino/btmg/blob/main/btmg.png)
