@@ -14,6 +14,8 @@ randommap.bas - Extended example using a 15 x 15 map using chosing tiles randoml
  2. Use robogeek42 sped.bas to create new RGB's and save in format (1) RGB8
 
 
-![btmg](https://github.com/8BitVino/btmg/blob/main/btmg.png)
+![btmg.bas](https://github.com/8BitVino/btmg/blob/main/btmg.png)
 
+
+![randommap.bas](https://github.com/8BitVino/btmg/blob/main/randommap.png)
 v1.0 Release version 14/1/2024
