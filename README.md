@@ -1,5 +1,7 @@
 # (B)itmap (T)ile (M)ap (G)enerator
 
+*** The functionality of BTMG has been supersceded by [MapMaker](https://github.com/8BitVino/mapmaker) ***
+
  Make a simple 14 x 14 bitmap tiled (16x16 pixel) game field for Agonlight/Console8
 
  Based on Agon sprite demos https://github.com/The-8bit-Noob
